@@ -1,2 +1,2 @@
 # cheriot
-transform life with lines of code
+transform lives with lines of code
